@@ -1,0 +1,20 @@
+{
+  "name": "rtb",
+  "version": "1.0.0",
+  "description": "A boilerplate for react + typescript development",
+  "private": true,
+  "main": "index.js",
+  "author": {
+    "name": "DongXiaoMing",
+    "url": "https://github.com/Esmio",
+    "email": "hy44jt@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:esmio/rtb.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'skip test...'"
+  }
+}
